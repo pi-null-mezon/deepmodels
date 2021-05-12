@@ -6,4 +6,6 @@ Repo to store some deep models I have trained and backups for some public models
 
  - craft_*.pth - backup of General [CRAFT](https://github.com/clovaai/CRAFT-pytorch) models, torch
 
+ - antelope.zip - [insightface](https://github.com/deepinsight/insightface) public (12.05.2021) onnx models for face detection and description
+
 
